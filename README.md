@@ -2,4 +2,4 @@
 
 # Pet проекты
 #### Проекты для личных целей
-- [Анеморумбометр](https://github.com/SergPetProjects/001_Wind_meter) (2025)
+[Список проектов](https://github.com/SergPetProjects/.github/tree/main/profile)
